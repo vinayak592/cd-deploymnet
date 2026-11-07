@@ -1,0 +1,38 @@
+{
+    "dev": {
+        "active_version": "v1.2",
+        "previous_version": "v1.1",
+        "active_slot": "blue",
+        "slots": {
+            "blue": "v1.0",
+            "green": null
+        }
+    },
+    "testing": {
+        "active_version": "v1.2",
+        "previous_version": "v1.0",
+        "active_slot": "blue",
+        "slots": {
+            "blue": "v1.0",
+            "green": null
+        }
+    },
+    "staging": {
+        "active_version": "v1.2",
+        "previous_version": "v1.0",
+        "active_slot": "blue",
+        "slots": {
+            "blue": "v1.0",
+            "green": null
+        }
+    },
+    "prod": {
+        "active_version": "v2.0",
+        "previous_version": "v1.2",
+        "active_slot": "green",
+        "slots": {
+            "blue": "v1.2",
+            "green": "v2.0"
+        }
+    }
+}
